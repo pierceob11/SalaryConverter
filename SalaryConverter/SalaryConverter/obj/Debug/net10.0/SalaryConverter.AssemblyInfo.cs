@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalaryConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c3effbeca578e6163bb477b59ba3a11d1727fb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalaryConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalaryConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

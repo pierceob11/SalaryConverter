@@ -1,0 +1,15 @@
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\bin\Debug\net10.0\SalaryConverter.exe
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\bin\Debug\net10.0\SalaryConverter.deps.json
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\bin\Debug\net10.0\SalaryConverter.runtimeconfig.json
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\bin\Debug\net10.0\SalaryConverter.dll
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\bin\Debug\net10.0\SalaryConverter.pdb
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.AssemblyInfoInputs.cache
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.AssemblyInfo.cs
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.sourcelink.json
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.dll
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\refint\SalaryConverter.dll
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.pdb
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\SalaryConverter.genruntimeconfig.cache
+D:\C#_Projects\Salary Converter\SalaryConverter\SalaryConverter\obj\Debug\net10.0\ref\SalaryConverter.dll
